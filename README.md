@@ -1,1 +1,1 @@
-Practice on a collection of LeetCode questions.
+A collection of LeetCode practice problems.
