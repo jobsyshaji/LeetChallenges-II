@@ -31,6 +31,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
+## Math
+|  |
+| ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 <!---LeetCode Topics End-->
