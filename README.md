@@ -51,5 +51,10 @@ A collection of LeetCode practice problems.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
