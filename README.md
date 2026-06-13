@@ -58,6 +58,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0175-combine-two-tables) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
