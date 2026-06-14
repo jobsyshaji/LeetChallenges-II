@@ -35,6 +35,7 @@ A collection of LeetCode practice problems.
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
 ## Binary Search
 |  |
 | ------- |
