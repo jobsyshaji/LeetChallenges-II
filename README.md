@@ -37,6 +37,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode practice problems.
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 ## Math
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
