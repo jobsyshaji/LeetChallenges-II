@@ -8,6 +8,7 @@ A collection of LeetCode practice problems.
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0198-house-robber) |
@@ -57,6 +58,7 @@ A collection of LeetCode practice problems.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
