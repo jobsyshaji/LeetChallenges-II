@@ -9,6 +9,7 @@ A collection of LeetCode practice problems.
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0198-house-robber) |
@@ -51,6 +52,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
