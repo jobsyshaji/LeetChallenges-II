@@ -101,6 +101,7 @@ A collection of LeetCode practice problems.
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 ## Depth-First Search
 |  |
