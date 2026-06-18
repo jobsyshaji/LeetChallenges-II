@@ -80,6 +80,7 @@ A collection of LeetCode practice problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode practice problems.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0543-diameter-of-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
