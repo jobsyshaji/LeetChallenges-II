@@ -37,6 +37,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
@@ -58,6 +59,7 @@ A collection of LeetCode practice problems.
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 ## Math
@@ -137,4 +139,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0010-regular-expression-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
