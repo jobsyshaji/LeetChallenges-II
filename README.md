@@ -9,6 +9,7 @@ A collection of LeetCode practice problems.
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
@@ -34,6 +35,7 @@ A collection of LeetCode practice problems.
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 ## String
@@ -155,4 +157,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
