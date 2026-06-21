@@ -7,6 +7,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
@@ -62,6 +63,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
 ## Hash Table
 |  |
