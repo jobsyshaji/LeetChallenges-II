@@ -23,6 +23,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0152-maximum-product-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode practice problems.
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
