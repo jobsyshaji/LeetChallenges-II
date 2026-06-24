@@ -20,6 +20,7 @@ A collection of LeetCode practice problems.
 | [0152-maximum-product-subarray](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0198-house-robber) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Sorting
 |  |
