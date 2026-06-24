@@ -65,6 +65,7 @@ A collection of LeetCode practice problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode practice problems.
 | [0092-reverse-linked-list-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
