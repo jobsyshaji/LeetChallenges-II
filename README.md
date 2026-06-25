@@ -21,6 +21,7 @@ A collection of LeetCode practice problems.
 | [0198-house-robber](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0198-house-robber) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode practice problems.
 | [0097-interleaving-string](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
