@@ -28,6 +28,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
@@ -39,6 +40,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -54,6 +56,7 @@ A collection of LeetCode practice problems.
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0091-decode-ways) |
