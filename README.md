@@ -25,6 +25,7 @@ A collection of LeetCode practice problems.
 | [0152-maximum-product-subarray](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -84,6 +85,7 @@ A collection of LeetCode practice problems.
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
