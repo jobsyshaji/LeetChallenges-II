@@ -9,6 +9,7 @@ A collection of LeetCode practice problems.
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
@@ -33,6 +34,7 @@ A collection of LeetCode practice problems.
 | [0010-regular-expression-matching](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0072-edit-distance) |
@@ -47,6 +49,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -77,6 +80,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -208,4 +212,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
