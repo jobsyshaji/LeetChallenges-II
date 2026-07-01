@@ -27,6 +27,7 @@ A collection of LeetCode practice problems.
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1929-concatenation-of-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode practice problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Monotonic Stack
 |  |
