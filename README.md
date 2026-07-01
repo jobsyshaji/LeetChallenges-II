@@ -28,6 +28,7 @@ A collection of LeetCode practice problems.
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -61,6 +62,7 @@ A collection of LeetCode practice problems.
 | [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1920-build-array-from-permutation](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
