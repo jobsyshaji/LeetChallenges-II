@@ -32,6 +32,7 @@ A collection of LeetCode practice problems.
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -230,6 +231,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1732-find-the-highest-altitude) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Monotonic Stack
 |  |
