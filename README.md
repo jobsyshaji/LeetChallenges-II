@@ -28,6 +28,7 @@ A collection of LeetCode practice problems.
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
@@ -127,6 +128,7 @@ A collection of LeetCode practice problems.
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
