@@ -27,6 +27,7 @@ A collection of LeetCode practice problems.
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1920-build-array-from-permutation) |
@@ -91,6 +92,7 @@ A collection of LeetCode practice problems.
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode practice problems.
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0278-first-bad-version) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +221,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
