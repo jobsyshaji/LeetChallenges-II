@@ -6,6 +6,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0041-first-missing-positive) |
@@ -129,6 +130,7 @@ A collection of LeetCode practice problems.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
