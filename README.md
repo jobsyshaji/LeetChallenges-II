@@ -13,6 +13,7 @@ A collection of LeetCode practice problems.
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
@@ -218,6 +220,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0063-unique-paths-ii) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
