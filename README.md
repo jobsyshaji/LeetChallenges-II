@@ -33,6 +33,7 @@ A collection of LeetCode practice problems.
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1732-find-the-highest-altitude) |
@@ -124,6 +125,7 @@ A collection of LeetCode practice problems.
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
