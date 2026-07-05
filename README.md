@@ -41,6 +41,7 @@ A collection of LeetCode practice problems.
 | [1929-concatenation-of-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Dynamic Programming
 |  |
 | ------- |
