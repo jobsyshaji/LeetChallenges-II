@@ -31,6 +31,7 @@ A collection of LeetCode practice problems.
 | [0414-third-maximum-number](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
+| [1207-unique-number-of-occurrences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode practice problems.
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
