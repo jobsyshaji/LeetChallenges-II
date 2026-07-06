@@ -91,6 +91,7 @@ A collection of LeetCode practice problems.
 | [0115-distinct-subsequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0242-valid-anagram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode practice problems.
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0242-valid-anagram) |
 | [1207-unique-number-of-occurrences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
