@@ -21,6 +21,7 @@ A collection of LeetCode practice problems.
 | [0066-plus-one](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -65,6 +66,7 @@ A collection of LeetCode practice problems.
 | [0020-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0144-binary-tree-preorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 ## Simulation
@@ -252,6 +254,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0084-largest-rectangle-in-histogram) |
 ## Counting
 |  |
 | ------- |
