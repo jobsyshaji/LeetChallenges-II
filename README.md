@@ -5,6 +5,7 @@ A collection of LeetCode practice problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
@@ -125,6 +126,7 @@ A collection of LeetCode practice problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0041-first-missing-positive) |
