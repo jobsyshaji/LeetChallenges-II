@@ -96,6 +96,7 @@ A collection of LeetCode practice problems.
 | [0166-fraction-to-recurring-decimal](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0242-valid-anagram) |
+| [1768-merge-strings-alternately](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1768-merge-strings-alternately) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode practice problems.
 | [0141-linked-list-cycle](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
