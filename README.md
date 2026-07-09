@@ -7,6 +7,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0001-two-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0039-combination-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode practice problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode practice problems.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0414-third-maximum-number) |
