@@ -33,6 +33,7 @@ A collection of LeetCode practice problems.
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0946-validate-stack-sequences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/1207-unique-number-of-occurrences) |
@@ -238,6 +239,7 @@ A collection of LeetCode practice problems.
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/jobsyshaji/LeetChallenges-II/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
 | ------- |
